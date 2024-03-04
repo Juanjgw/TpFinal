@@ -24,8 +24,8 @@ function ContactoComponente({ contacto, handleClose }) {
       </Modal.Footer>
     </Modal>
   );
-}
+}//prueba git
 
-export default ContactoComponente;
+export default ContactoComponente; 
 
 
